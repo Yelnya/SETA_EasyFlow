@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<city>
+
+<!-- First line already deleted -->
+
+<!-- Number of lines: 45 (0-44) -->
+<!-- Number of columns: 48 (0-47) -->
+
+<!-- Line 00 -->
+
+   <grid_0_11	type="entry"	direction="south"/>
+   <grid_0_12	type="exit"		direction="north"/>
+   
+   <grid_0_30	type="entry"	direction="south"/>
+   <grid_0_31	type="exit"		direction="north"/>
+   
+   <grid_0_40	type="entry"	direction="south"/>
+   <grid_0_41	type="exit"		direction="north"/>
+   
+<!-- Line 01 -->
+     
+   <grid_1_11	type="road"		direction="south"/>
+   <grid_1_12	type="road"		direction="north"/>
+   <grid_1_30	type="road"		direction="south"/>
+   <grid_1_31	type="road"		direction="north"/>
+   <grid_1_40	type="road"		direction="south"/>
+   <grid_1_41	type="road"		direction="north"/>   
+   
+<!-- Line 02 -->
+     
+   <grid_2_11	type="road"		direction="south"/>
+   <grid_2_12	type="road"		direction="north"/>
+   <grid_2_30	type="road"		direction="south"/>
+   <grid_2_31	type="road"		direction="north"/>
+   <grid_2_40	type="road"		direction="south"/>
+   <grid_2_41	type="road"		direction="north"/>   
+   
+<!-- Line 03 -->
+     
+   <grid_3_11	type="road"		direction="south"/>
+   <grid_3_12	type="road"		direction="north"/>
+   <grid_3_30	type="road"		direction="south"/>
+   <grid_3_31	type="road"		direction="north"/>
+   <grid_3_40	type="road"		direction="south"/>
+   <grid_3_41	type="road"		direction="north"/>   
+   
+<!-- Line 04 -->
+     
+   <grid_4_11	type="road"		direction="south"/>
+   <grid_4_12	type="road"		direction="north"/>
+   <grid_4_30	type="road"		direction="south"/>
+      
+   <grid_4_31	type="crossing"	direction="cross"/>
+   
+   <grid_4_32	type="road"		direction="west"/>   
+   <grid_4_33	type="road"		direction="west"/>   
+   <grid_4_34	type="road"		direction="west"/>   
+   <grid_4_35	type="road"		direction="west"/>   
+   <grid_4_36	type="road"		direction="west"/>   
+   <grid_4_37	type="road"		direction="west"/>   
+   <grid_4_38	type="road"		direction="west"/>   
+   <grid_4_39	type="road"		direction="west"/> 
+     
+   <grid_4_40	type="crossing"	direction="cross"/>  
+    
+   <grid_4_41	type="road"		direction="north"/>   
+   
+<!-- Line 05 -->
+     
+   <grid_5_11	type="road"		direction="south"/>
+   <grid_5_12	type="road"		direction="north"/>
+   <grid_5_30	type="road"		direction="south"/>
+   <grid_5_31	type="road"		direction="north"/>
+   <grid_5_40	type="road"		direction="south"/>
+   <grid_5_41	type="road"		direction="north"/>   
+   
+<!-- Line 06 -->
+     
+   <grid_6_11	type="road"		direction="south"/>
+   <grid_6_12	type="road"		direction="north"/>
+   <grid_6_30	type="road"		direction="south"/>
+   <grid_6_31	type="road"		direction="north"/>
+   <grid_6_40	type="road"		direction="south"/>
+   <grid_6_41	type="road"		direction="north"/>   
+   
+<!-- Line 07 -->
+     
+   <grid_7_11	type="road"		direction="south"/>
+   <grid_7_12	type="road"		direction="north"/>
+   <grid_7_30	type="road"		direction="south"/>
+   <grid_7_31	type="road"		direction="north"/>
+   <grid_7_40	type="road"		direction="south"/>
+   <grid_7_41	type="road"		direction="north"/>   
+   
+<!-- Line 08 -->
+     
+   <grid_8_0	type="exit"		direction="west"/>
+   <grid_8_1	type="road"		direction="west"/>
+   <grid_8_2	type="road"		direction="west"/>
+   <grid_8_3	type="road"		direction="west"/>
+   <grid_8_4	type="road"		direction="west"/>
+   <grid_8_5	type="road"		direction="west"/>
+   <grid_8_6	type="road"		direction="west"/>
+   <grid_8_7	type="road"		direction="west"/>
+   <grid_8_8	type="road"		direction="west"/>
+   <grid_8_9	type="road"		direction="west"/>
+   <grid_8_10	type="road"		direction="west"/>
+   
+   <grid_8_11	type="crossing"	direction="cross"/>   
+   <grid_8_12	type="crossing"	direction="cross"/>   
+   
+   <grid_8_13	type="road"		direction="west"/>
+   <grid_8_14	type="road"		direction="west"/>
+   <grid_8_15	type="road"		direction="west"/>
+   <grid_8_16	type="road"		direction="west"/>
+   <grid_8_17	type="road"		direction="west"/>
+   <grid_8_18	type="road"		direction="west"/>
+   <grid_8_19	type="road"		direction="north-west"/>
+   <grid_8_30	type="road"		direction="south"/>
+   <grid_8_31	type="road"		direction="north"/>
+   <grid_8_40	type="road"		direction="south"/>
+   <grid_8_41	type="road"		direction="north"/>
+   
+<!-- Line 9 -->
+     
+   <grid_9_0	type="entry"	direction="east"/>
+   <grid_9_1	type="road"		direction="east"/>
+   <grid_9_2	type="road"		direction="east"/>
+   <grid_9_3	type="road"		direction="east"/>
+   <grid_9_4	type="road"		direction="east"/>
+   <grid_9_5	type="road"		direction="east"/>
+   <grid_9_6	type="road"		direction="east"/>
+   <grid_9_7	type="road"		direction="east"/>
+   <grid_9_8	type="road"		direction="east"/>
+   <grid_9_9	type="road"		direction="east"/>
+   <grid_9_10	type="road"		direction="east"/>
+   
+   <grid_9_11	type="crossing"	direction="cross"/>   
+   <grid_9_12	type="crossing"	direction="cross"/>   
+   
+   <grid_9_13	type="road"		direction="east"/>
+   <grid_9_14	type="road"		direction="east"/>
+   <grid_9_15	type="road"		direction="east"/>
+   <grid_9_16	type="road"		direction="east"/>
+   <grid_9_17	type="road"		direction="east"/>   
+   <grid_9_18	type="road"		direction="east-south"/>   
+   <grid_9_19	type="road"		direction="north"/>
+   <grid_9_30	type="road"	direction="south"/>
+   
+   <grid_9_31	type="crossing"	direction="cross"/>
+   
+   <grid_9_32	type="road"		direction="east"/>
+   <grid_9_33	type="road"		direction="east"/>
+   <grid_9_34	type="road"		direction="east"/>
+   <grid_9_35	type="road"		direction="east"/>
+   <grid_9_36	type="road"		direction="east"/>
+   <grid_9_37	type="road"		direction="east"/>
+   <grid_9_38	type="road"		direction="east"/>
+   <grid_9_39	type="road"		direction="east"/>   
+   
+   <grid_9_40	type="crossing"	direction="cross"/>  
+    
+   <grid_9_41	type="road"		direction="north"/>   
+   <grid_9_42	type="busstop"	direction="north-west"/>
+   
+<!-- Line 10 -->
+     
+   <grid_10_11	type="road"		direction="south"/>
+   <grid_10_12	type="road"		direction="north"/>
+   <grid_10_18	type="road"		direction="south"/>
+   <grid_10_19	type="road"		direction="north"/>
+   <grid_10_30	type="road"		direction="south"/>
+   <grid_10_31	type="road"		direction="north"/>
+   
+   <grid_10_34	type="busstop"	direction="south-east"/>
+   <grid_10_35	type="busstop"	direction="east"/>
+   <grid_10_36	type="busstop"	direction="north-east"/>
+   
+   <grid_10_40	type="road"		direction="south"/>   
+   <grid_10_41	type="road"		direction="north"/>   
+   
+   <grid_10_42	type="busstop"	direction="north"/>
+   
+<!-- Line 11 -->
+     
+   <grid_11_11	type="road"		direction="south"/>
+   <grid_11_12	type="road"		direction="north"/>
+   <grid_11_18	type="road"		direction="south"/>
+   <grid_11_19	type="road"		direction="north"/>
+   <grid_11_30	type="road"		direction="south"/>
+   <grid_11_31	type="road"		direction="north"/>
+   <grid_11_40	type="road"		direction="south"/>   
+   <grid_11_41	type="road"		direction="north"/>  
+    
+   <grid_11_42	type="busstop"	direction="north-east"/>
+   
+<!-- Line 12 -->
+     
+   <grid_12_11	type="road"		direction="south"/>
+   <grid_12_12	type="road"		direction="north"/>
+   <grid_12_18	type="road"		direction="south"/>
+   <grid_12_19	type="road"		direction="north"/>
+   <grid_12_30	type="road"		direction="south"/>
+   <grid_12_31	type="road"		direction="north"/>
+   <grid_12_40	type="road"		direction="south"/>   
+   <grid_12_41	type="road"		direction="north"/>   
+   
+<!-- Line 13 -->
+     
+   <grid_13_11	type="road"		direction="south"/>
+   <grid_13_12	type="road"		direction="north"/>
+   <grid_13_18	type="road"		direction="south"/>
+   <grid_13_19	type="road"		direction="north"/>
+   <grid_13_30	type="road"		direction="south"/>
+   <grid_13_31	type="road"		direction="north"/>
+   <grid_13_40	type="road"		direction="south"/>   
+   <grid_13_41	type="road"		direction="north"/>   
+   
+<!-- Line 14 -->
+     
+   <grid_14_11	type="road"		direction="south"/>
+   <grid_14_12	type="road"		direction="north"/>
+   <grid_14_18	type="road"		direction="south"/>
+   <grid_14_19	type="road"		direction="north"/>
+   <grid_14_30	type="road"		direction="south"/>
+   <grid_14_31	type="road"		direction="north"/>
+   <grid_14_40	type="road"		direction="south"/>   
+   <grid_14_41	type="road"		direction="north"/>   
+   
+<!-- Line 15 -->
+     
+   <grid_15_11	type="road"		direction="south"/>
+   <grid_15_12	type="road"		direction="north"/>
+   <grid_15_18	type="road"		direction="south"/>
+   <grid_15_19	type="road"		direction="north"/>
+   <grid_15_30	type="road"		direction="south"/>
+   <grid_15_31	type="road"		direction="north"/>
+   <grid_15_40	type="road"		direction="south"/>   
+   <grid_15_41	type="road"		direction="north"/>   
+   
+<!-- Line 16 -->
+     
+   <grid_16_11	type="road"		direction="south"/>
+   <grid_16_12	type="road"		direction="north"/>
+   <grid_16_18	type="road"		direction="south"/>
+   <grid_16_19	type="road"		direction="north"/>
+   <grid_16_30	type="road"		direction="south"/>
+   <grid_16_31	type="road"		direction="north"/>
+   <grid_16_40	type="road"		direction="south"/>   
+   <grid_16_41	type="road"		direction="north"/>   
+   
+<!-- Line 17 -->
+     
+   <grid_17_11	type="road"		direction="south"/>
+   <grid_17_12	type="road"		direction="north"/>
+   <grid_17_18	type="road"		direction="south"/>
+   <grid_17_19	type="road"		direction="north"/>
+   <grid_17_30	type="road"		direction="south"/>
+   <grid_17_31	type="road"		direction="north"/>
+   <grid_17_40	type="road"		direction="south"/>   
+   <grid_17_41	type="road"		direction="north"/> 
+   
+<!-- Line 18 -->
+     
+   <grid_18_0	type="exit"		direction="west"/>
+   <grid_18_1	type="road"		direction="west"/>
+   <grid_18_2	type="road"		direction="west"/>
+   <grid_18_3	type="road"		direction="west"/>
+   <grid_18_4	type="road"		direction="west"/>
+   <grid_18_5	type="road"		direction="west"/>
+   <grid_18_6	type="road"		direction="west"/>
+   <grid_18_7	type="road"		direction="west"/>
+   <grid_18_8	type="road"		direction="west"/>
+   <grid_18_9	type="road"		direction="west"/>
+   <grid_18_10	type="road"		direction="west"/>
+   
+   <grid_18_11	type="crossing"	direction="cross"/>   
+   <grid_18_12	type="crossing"	direction="cross"/>   
+      
+   <grid_18_13	type="road"		direction="west"/>
+   <grid_18_14	type="road"		direction="west"/>
+   <grid_18_15	type="road"		direction="west"/>
+   <grid_18_16	type="road"		direction="west"/>
+   <grid_18_17	type="road"		direction="west"/>
+  
+   <grid_18_18	type="crossing"	direction="cross"/>   
+   <grid_18_19	type="crossing"	direction="cross"/>   
+
+   <grid_18_20	type="road"		direction="west"/>
+   <grid_18_21	type="road"		direction="west"/>
+   <grid_18_22	type="road"		direction="west"/>
+   <grid_18_23	type="road"		direction="west"/>
+   <grid_18_24	type="road"		direction="west"/>
+   <grid_18_25	type="road"		direction="west"/>
+   <grid_18_26	type="road"		direction="west"/>
+   <grid_18_27	type="road"		direction="west"/>
+   <grid_18_28	type="road"		direction="west"/>
+   <grid_18_29	type="road"		direction="west"/>
+  
+   <grid_18_30	type="crossing"	direction="cross"/>   
+   <grid_18_31	type="crossing"	direction="cross"/>   
+
+   <grid_18_32	type="road"		direction="west"/>
+   <grid_18_33	type="road"		direction="west"/>
+   <grid_18_34	type="road"		direction="west"/>
+   <grid_18_35	type="road"		direction="west"/>
+   <grid_18_36	type="road"		direction="west"/>
+   <grid_18_37	type="road"		direction="west"/>
+   <grid_18_38	type="road"		direction="west"/>
+   <grid_18_39	type="road"		direction="west"/>
+   
+   <grid_18_40	type="crossing"	direction="cross"/>   
+   <grid_18_41	type="crossing"	direction="cross"/>   
+  
+<!-- Line 19 -->
+
+   <grid_19_0	type="entry"	direction="east"/>
+   <grid_19_1	type="road"		direction="east"/>
+   <grid_19_2	type="road"		direction="east"/>
+   <grid_19_3	type="road"		direction="east"/>
+   <grid_19_4	type="road"		direction="east"/>
+   <grid_19_5	type="crossing"	direction="cross"/>
+   <grid_19_6	type="road"		direction="east"/>
+   <grid_19_7	type="road"		direction="east"/>
+   <grid_19_8	type="road"		direction="east"/>
+   <grid_19_9	type="road"		direction="east"/>
+   <grid_19_10	type="road"		direction="east"/>
+   
+   <grid_19_11	type="crossing"	direction="cross"/>   
+   <grid_19_12	type="crossing"	direction="cross"/>   
+      
+   <grid_19_13	type="road"		direction="east"/>
+   <grid_19_14	type="road"		direction="east"/>
+   <grid_19_15	type="road"		direction="east"/>
+   <grid_19_16	type="road"		direction="east"/>
+   <grid_19_17	type="road"		direction="east"/>
+  
+   <grid_19_18	type="crossing"	direction="cross"/>   
+   <grid_19_19	type="crossing"	direction="cross"/>   
+
+   <grid_19_20	type="road"		direction="east"/>
+   <grid_19_21	type="road"		direction="east"/>
+   <grid_19_22	type="road"		direction="east"/>
+   <grid_19_23	type="road"		direction="east"/>
+   <grid_19_24	type="road"		direction="east"/>
+   <grid_19_25	type="road"		direction="east"/>
+   <grid_19_26	type="road"		direction="east"/>
+   <grid_19_27	type="road"		direction="east"/>
+   <grid_19_28	type="road"		direction="east"/>
+   <grid_19_29	type="road"		direction="east"/>
+  
+   <grid_19_30	type="crossing"	direction="cross"/>   
+   <grid_19_31	type="crossing"	direction="cross"/>   
+
+   <grid_19_32	type="road"		direction="east"/>
+   <grid_19_33	type="road"		direction="east"/>
+   <grid_19_34	type="road"		direction="east"/>
+   <grid_19_35	type="road"		direction="east"/>
+   <grid_19_36	type="road"		direction="east"/>
+   <grid_19_37	type="road"		direction="east"/>
+   <grid_19_38	type="road"		direction="east"/>
+   <grid_19_39	type="road"		direction="east"/>
+   
+   <grid_19_40	type="crossing"	direction="cross"/>   
+   <grid_19_41	type="crossing"	direction="cross"/>   
+
+ <!-- Line 20 -->
+ 
+   <grid_20_5	type="road"		direction="south"/>
+   <grid_20_11	type="road"		direction="south"/>
+   <grid_20_12	type="road"		direction="north"/>
+   <grid_20_30	type="road"		direction="south"/>
+   <grid_20_31	type="road"		direction="north"/>
+   <grid_20_40	type="road"		direction="south"/>
+   <grid_20_41	type="road"		direction="north"/>
+
+ <!-- Line 21 -->
+ 
+   <grid_21_5	type="road"		direction="south"/>
+   <grid_21_11	type="road"		direction="south"/>
+   <grid_21_12	type="road"		direction="north"/>
+   <grid_21_30	type="road"		direction="south"/>
+   <grid_21_31	type="road"		direction="north"/>
+   <grid_21_40	type="road"		direction="south"/>
+   <grid_21_41	type="road"		direction="north"/>
+
+ <!-- Line 22 -->
+ 
+   <grid_22_4	type="busstop"	direction="south-west"/>
+   <grid_22_5	type="road"		direction="south"/>
+   <grid_22_11	type="road"		direction="south"/>
+   <grid_22_12	type="road"		direction="north"/>
+   <grid_22_30	type="road"		direction="south"/>
+   <grid_22_31	type="road"		direction="north"/>
+   <grid_22_40	type="road"		direction="south"/>
+   <grid_22_41	type="road"		direction="north"/>
+    
+ <!-- Line 23 -->
+ 
+   <grid_23_4	type="busstop"	direction="south"/>
+   <grid_23_5	type="road"		direction="south"/>
+   <grid_23_11	type="road"		direction="south"/>
+   <grid_23_12	type="road"		direction="north"/>
+   <grid_23_30	type="road"		direction="south"/>
+   <grid_23_31	type="road"		direction="north"/>
+   <grid_23_40	type="road"		direction="south"/>
+   <grid_23_41	type="road"		direction="north"/>
+
+ <!-- Line 24 -->
+ 
+   <grid_24_4	type="busstop"	direction="south-east"/>
+   <grid_24_5	type="road"		direction="south"/>
+   <grid_24_11	type="road"		direction="south"/>
+   <grid_24_12	type="road"		direction="north"/>
+   <grid_24_30	type="road"		direction="south"/>
+   <grid_24_31	type="road"		direction="north"/>
+   <grid_24_40	type="road"		direction="south"/>
+   <grid_24_41	type="road"		direction="north"/>
+
+ <!-- Line 25 -->
+ 
+   <grid_25_5	type="road"		direction="south"/>
+   <grid_25_11	type="road"		direction="south"/>
+   <grid_25_12	type="road"		direction="north"/>
+   <grid_25_13	type="busstop"	direction="north-west"/>
+   <grid_25_30	type="road"		direction="south"/>
+   <grid_25_31	type="road"		direction="north"/>
+   <grid_25_40	type="road"		direction="south"/>
+   <grid_25_41	type="road"		direction="north"/>
+
+ <!-- Line 26 -->
+ 
+   <grid_26_5	type="road"		direction="south"/>   
+   <grid_26_11	type="road"		direction="south"/>
+   <grid_26_12	type="road"		direction="north"/>
+   <grid_26_13	type="busstop"	direction="north"/>   
+   <grid_26_18	type="road"		direction="west-south"/>
+   <grid_26_19	type="road"		direction="west"/>
+   <grid_26_20	type="road"		direction="west"/>
+   <grid_26_21	type="road"		direction="west"/>
+   <grid_26_22	type="road"		direction="west"/>
+   <grid_26_23	type="road"		direction="west"/>
+   <grid_26_24	type="road"		direction="west"/>
+ 
+   <grid_26_25	type="crossing"	direction="cross"/>   
+   <grid_26_26	type="crossing"	direction="cross"/>   
+
+   <grid_26_27	type="road"		direction="west"/>
+   <grid_26_28	type="road"		direction="west"/>
+   <grid_26_29	type="road"		direction="west"/>
+   <grid_26_30	type="road"		direction="south-west"/>
+   <grid_26_31	type="road"		direction="north"/>
+
+   <grid_26_36	type="road"		direction="west-south"/>
+   <grid_26_37	type="road"		direction="west"/>
+   <grid_26_38	type="road"		direction="west"/>
+   <grid_26_39	type="road"		direction="west"/>
+   <grid_26_40	type="road"		direction="south-west"/>
+   <grid_26_41	type="road"		direction="north"/>
+   
+ <!-- Line 27 -->
+ 
+   <grid_27_5	type="road"		direction="south-east"/>   
+   <grid_27_6	type="road"		direction="east"/>
+   <grid_27_7	type="road"		direction="east"/>
+   <grid_27_8	type="road"		direction="east"/>
+   <grid_27_9	type="road"		direction="east"/>
+   <grid_27_10	type="road"		direction="east"/>
+   
+   <grid_27_11	type="crossing"	direction="cross"/>
+   
+   <grid_27_12	type="road"		direction="north"/>   
+   <grid_27_13	type="busstop"	direction="north-east"/>      
+   <grid_27_18	type="road"		direction="south"/>   
+   <grid_27_19	type="road"		direction="north-east"/>
+   <grid_27_20	type="road"		direction="east"/>
+   <grid_27_21	type="road"		direction="east"/>
+   <grid_27_22	type="road"		direction="east"/>
+   <grid_27_23	type="road"		direction="east"/>
+   <grid_27_24	type="road"		direction="east"/>
+ 
+   <grid_27_25	type="crossing"	direction="cross"/>   
+   <grid_27_26	type="crossing"	direction="cross"/>   
+
+   <grid_27_27	type="road"		direction="east"/>
+   <grid_27_28	type="road"		direction="east"/>
+   <grid_27_29	type="road"		direction="east"/>
+   <grid_27_30	type="road"		direction="east"/>  
+   <grid_27_31	type="road"		direction="east-north"/>
+
+   <grid_27_36	type="road"		direction="south"/>
+   <grid_27_37	type="road"		direction="north-east"/>
+   <grid_27_38	type="road"		direction="east"/>
+   <grid_27_39	type="road"		direction="east"/>
+   <grid_27_40	type="road"		direction="east"/>
+   <grid_27_41	type="road"		direction="east-north"/>
+   
+ <!-- Line 28 -->
+ 
+   <grid_28_11	type="road"		direction="south"/>
+   <grid_28_12	type="road"		direction="north"/>
+   
+   <grid_28_18	type="road"		direction="south"/>
+   <grid_28_19	type="road"		direction="north"/>
+   
+   <grid_28_25	type="road"		direction="south"/>
+   <grid_28_26	type="road"		direction="north"/>
+   
+   <grid_28_36	type="road"		direction="south"/>
+   <grid_28_37	type="road"		direction="north"/>
+ 
+ <!-- Line 29 -->
+ 
+   <grid_29_11	type="road"		direction="south"/>
+   <grid_29_12	type="road"		direction="north"/>
+   
+   <grid_29_18	type="road"		direction="south"/>
+   <grid_29_19	type="road"		direction="north"/>
+   
+   <grid_29_25	type="road"		direction="south"/>
+   <grid_29_26	type="road"		direction="north"/>
+   
+   <grid_29_36	type="road"		direction="south"/>
+   <grid_29_37	type="road"		direction="north"/>
+ 
+ <!-- Line 30 -->
+ 
+   <grid_30_11	type="road"		direction="south"/>
+   <grid_30_12	type="road"		direction="north"/>
+   
+   <grid_30_18	type="road"		direction="south"/>
+   <grid_30_19	type="road"		direction="north"/>
+   
+   <grid_30_25	type="road"		direction="south"/>
+   <grid_30_26	type="road"		direction="north"/>
+   
+   <grid_30_36	type="road"		direction="south"/>
+   <grid_30_37	type="road"		direction="north"/>
+ 
+  <!-- Line 31 -->
+ 
+   <grid_31_11	type="road"		direction="south"/>
+   <grid_31_12	type="road"		direction="north"/>
+   
+   <grid_31_18	type="road"		direction="south"/>
+   <grid_31_19	type="road"		direction="north"/>
+   
+   <grid_31_25	type="road"		direction="south"/>
+   <grid_31_26	type="road"		direction="north"/>
+   
+   <grid_31_36	type="round_c"	direction="south-west"/>
+   <grid_31_37	type="round_c"	direction="north-west"/>
+ 
+  <!-- Line 32 -->
+ 
+   <grid_32_11	type="road"		direction="south"/>
+   <grid_32_12	type="road"		direction="north"/>
+   
+   <grid_32_18	type="road"		direction="south"/>
+   <grid_32_19	type="road"		direction="north"/>
+   
+   <grid_32_25	type="road"		direction="south"/>
+   <grid_32_26	type="road"		direction="north"/>
+   
+   <grid_32_35	type="round_s"	direction="south-west"/>
+   <grid_32_38	type="round_s"	direction="north-west"/>
+   
+  <!-- Line 33 -->
+ 
+   <grid_33_11	type="road"		direction="south"/>
+   <grid_33_12	type="road"		direction="north"/>
+   
+   <grid_33_18	type="road"		direction="south"/>
+   <grid_33_19	type="road"		direction="north"/>
+   
+   <grid_33_25	type="road"		direction="south"/>
+   <grid_33_26	type="road"		direction="north"/>
+   
+   <grid_33_34	type="round_s"	direction="south-west"/>
+   <grid_33_39	type="round_s"	direction="north-west"/>
+
+	<!-- Line 34 -->
+     
+   <grid_34_0	type="exit"		direction="west"/>
+   <grid_34_1	type="road"		direction="west"/>
+   <grid_34_2	type="road"		direction="west"/>
+   <grid_34_3	type="road"		direction="west"/>
+   <grid_34_4	type="road"		direction="west"/>
+   <grid_34_5	type="road"		direction="west"/>
+   <grid_34_6	type="road"		direction="west"/>
+   <grid_34_7	type="road"		direction="west"/>
+   <grid_34_8	type="road"		direction="west"/>
+   <grid_34_9	type="road"		direction="west"/>
+   <grid_34_10	type="road"		direction="west"/>
+   
+   <grid_34_11	type="crossing"	direction="cross"/>   
+   <grid_34_12	type="crossing"	direction="cross"/>   
+      
+   <grid_34_13	type="road"		direction="west"/>
+   <grid_34_14	type="road"		direction="west"/>
+   <grid_34_15	type="road"		direction="west"/>
+   <grid_34_16	type="road"		direction="west"/>
+   <grid_34_17	type="road"		direction="west"/>
+   
+   <grid_34_18	type="crossing"	direction="cross"/>   
+   <grid_34_19	type="crossing"	direction="cross"/>   
+   
+   <grid_34_20	type="road"		direction="west"/>
+   <grid_34_21	type="road"		direction="west"/>
+   <grid_34_22	type="road"		direction="west"/>
+   <grid_34_23	type="road"		direction="west"/>
+   <grid_34_24	type="road"		direction="west"/>
+   
+   <grid_34_25	type="crossing"	direction="cross"/>   
+   <grid_34_26	type="crossing"	direction="cross"/>   
+ 
+   <grid_34_27	type="road"		direction="west"/>
+   <grid_34_28	type="road"		direction="west"/>
+   <grid_34_29	type="road"		direction="west"/>
+   <grid_34_30	type="road"		direction="west"/>
+   <grid_34_31	type="road"		direction="west"/>
+   <grid_34_32	type="road"		direction="west"/>
+    
+   <grid_34_33	type="round_c"	direction="south-west"/> 
+   <grid_34_40	type="round_c"	direction="north-west"/>
+   <grid_34_41	type="road"		direction="west"/>
+   <grid_34_42	type="road"		direction="west"/>
+   <grid_34_43	type="road"		direction="west"/>
+   <grid_34_44	type="road"		direction="west"/>
+   <grid_34_45	type="road"		direction="west"/>
+   <grid_34_46	type="road"		direction="west"/>
+   <grid_34_47	type="entry"	direction="west"/>
+
+ <!-- Line 35 -->
+     
+   <grid_35_0	type="entry"	direction="east"/>
+   <grid_35_1	type="road"		direction="east"/>
+   <grid_35_2	type="road"		direction="east"/>
+   <grid_35_3	type="road"		direction="east"/>
+   <grid_35_4	type="road"		direction="east"/>
+   <grid_35_5	type="road"		direction="east"/>
+   <grid_35_6	type="road"		direction="east"/>
+   <grid_35_7	type="road"		direction="east"/>
+   <grid_35_8	type="road"		direction="east"/>
+   <grid_35_9	type="road"		direction="east"/>
+   <grid_35_10	type="road"		direction="east"/>
+   
+   <grid_35_11	type="crossing"	direction="cross"/>   
+   <grid_35_12	type="crossing"	direction="cross"/>   
+      
+   <grid_35_13	type="road"		direction="east"/>
+   <grid_35_14	type="road"		direction="east"/>
+   <grid_35_15	type="road"		direction="east"/>
+   <grid_35_16	type="road"		direction="east"/>
+   <grid_35_17	type="road"		direction="east"/>
+   
+   <grid_35_18	type="crossing"	direction="cross"/>   
+   <grid_35_19	type="crossing"	direction="cross"/>   
+   
+   <grid_35_20	type="road"		direction="east"/>
+   <grid_35_21	type="road"		direction="east"/>
+   <grid_35_22	type="road"		direction="east"/>
+   <grid_35_23	type="road"		direction="east"/>
+   <grid_35_24	type="road"		direction="east"/>
+   
+   <grid_35_25	type="crossing"	direction="cross"/>   
+   <grid_35_26	type="crossing"	direction="cross"/>   
+ 
+   <grid_35_27	type="road"		direction="east"/>
+   <grid_35_28	type="road"		direction="east"/>
+   <grid_35_29	type="road"		direction="east"/>
+   <grid_35_30	type="road"		direction="east"/>
+   <grid_35_31	type="road"		direction="east"/>
+   <grid_35_32	type="road"		direction="east"/>
+    
+   <grid_35_33	type="round_c"	direction="south-east"/> 
+   <grid_35_40	type="round_c"	direction="north-east"/> 
+     
+   <grid_35_41	type="road"		direction="east"/>
+   <grid_35_42	type="road"		direction="east"/>
+   <grid_35_43	type="road"		direction="east"/>
+   <grid_35_44	type="road"		direction="east"/>
+   <grid_35_45	type="road"		direction="east"/>
+   <grid_35_46	type="road"		direction="east"/>
+   <grid_35_47	type="exit"		direction="east"/>
+ 
+<!-- Line 36 -->
+ 
+   <grid_36_11	type="road"		direction="south"/>
+   <grid_36_12	type="road"		direction="north"/>
+   
+   <grid_36_18	type="road"		direction="south"/>
+   <grid_36_19	type="road"		direction="north"/>
+   
+   <grid_36_25	type="road"		direction="south"/>
+   <grid_36_26	type="road"		direction="north"/>
+
+   <grid_36_34	type="round_s"	direction="south-east"/>
+   <grid_36_39	type="round_s"	direction="north-east"/>
+   
+<!-- Line 37 -->
+ 
+   <grid_37_11	type="road"		direction="south"/>
+   <grid_37_12	type="road"		direction="north"/>
+   
+   <grid_37_18	type="road"		direction="south"/>
+   <grid_37_19	type="road"		direction="north"/>
+   
+   <grid_37_25	type="road"		direction="south"/>
+   <grid_37_26	type="road"		direction="north"/>
+
+   <grid_37_35	type="round_s"	direction="south-east"/>
+   <grid_37_38	type="round_s"	direction="north-east"/>
+ 
+<!-- Line 38 -->
+ 
+   <grid_38_11	type="road"		direction="south"/>
+   <grid_38_12	type="road"		direction="north"/>
+   
+   <grid_38_18	type="road"		direction="south"/>
+   <grid_38_19	type="road"		direction="north"/>
+   
+   <grid_38_25	type="road"		direction="south"/>
+   <grid_38_26	type="road"		direction="north"/>
+
+   <grid_38_36	type="round_c"	direction="south-east"/>
+   <grid_38_37	type="round_c"	direction="north-east"/>
+ 
+<!-- Line 39 -->
+ 
+   <grid_39_11	type="road"		direction="south"/>
+   <grid_39_12	type="road"		direction="north"/>
+   
+   <grid_39_18	type="road"		direction="south"/>
+   <grid_39_19	type="road"		direction="north"/>
+   
+   <grid_39_25	type="road"		direction="south"/>
+   <grid_39_26	type="road"		direction="north"/>
+
+   <grid_39_36	type="road"		direction="south"/>
+   <grid_39_37	type="road"		direction="north"/>
+   
+<!-- Line 40 -->
+ 
+   <grid_40_11	type="road"		direction="south"/>
+   <grid_40_12	type="road"		direction="north"/>
+   
+   <grid_40_18	type="road"		direction="south"/>
+   <grid_40_19	type="road"		direction="north"/>
+   
+   <grid_40_25	type="road"		direction="south"/>
+   <grid_40_26	type="road"		direction="north"/>
+
+   <grid_40_31	type="busstop"	direction="south-west"/>
+   <grid_40_32	type="busstop"	direction="west"/>
+   <grid_40_33	type="busstop"	direction="north-west"/>
+
+   <grid_40_36	type="road"		direction="south"/>
+   <grid_40_37	type="road"		direction="north"/>
+   
+<!-- Line 41 -->
+   
+  <grid_41_11	type="road"		direction="south"/>
+  <grid_41_12	type="road"		direction="north-west"/>
+  <grid_41_13	type="road"		direction="west"/>
+  <grid_41_14	type="road"		direction="west"/>
+  <grid_41_15	type="road"		direction="west"/>
+  <grid_41_16	type="road"		direction="west"/>
+  <grid_41_17	type="road"		direction="west"/>
+   
+  <grid_41_18	type="crossing"	direction="cross"/>
+  <grid_41_19	type="crossing"	direction="cross"/>
+   
+  <grid_41_25	type="road"		direction="south"/>
+  <grid_41_26	type="road"		direction="north-west"/>
+  <grid_41_27	type="road"		direction="west"/>
+  <grid_41_28	type="road"		direction="west"/>
+  <grid_41_29	type="road"		direction="west"/>
+  <grid_41_30	type="road"		direction="west"/>
+  <grid_41_31	type="road"		direction="west"/>
+  <grid_41_32	type="road"		direction="west"/>
+  <grid_41_33	type="road"		direction="west"/>
+  <grid_41_34	type="road"		direction="west"/>
+  <grid_41_35	type="road"		direction="west"/>
+
+  <grid_41_36	type="crossing"	direction="cross"/>
+  <grid_41_37	type="crossing"	direction="cross"/>
+
+<!-- Line 42 -->
+   
+  <grid_42_11	type="road"		direction="south-east"/>
+  <grid_42_12	type="road"		direction="east"/>
+  <grid_42_13	type="road"		direction="east"/>
+  <grid_42_14	type="road"		direction="east"/>
+  <grid_42_15	type="road"		direction="east"/>
+  <grid_42_16	type="road"		direction="east"/>
+  <grid_42_17	type="road"		direction="east"/>
+   
+  <grid_42_18	type="crossing"	direction="cross"/>
+  <grid_42_19	type="crossing"	direction="cross"/>
+   
+  <grid_42_25	type="road"		direction="south-east"/>
+  <grid_42_26	type="road"		direction="east"/>
+  <grid_42_27	type="road"		direction="east"/>
+  <grid_42_28	type="road"		direction="east"/>
+  <grid_42_29	type="road"		direction="east"/>
+  <grid_42_30	type="road"		direction="east"/>
+  <grid_42_31	type="road"		direction="east"/>
+  <grid_42_32	type="road"		direction="east"/>
+  <grid_42_33	type="road"		direction="east"/>
+  <grid_42_34	type="road"		direction="east"/>
+  <grid_42_35	type="road"		direction="east"/>
+
+  <grid_42_36	type="crossing"	direction="cross"/>
+  <grid_42_37	type="crossing"	direction="cross"/>
+
+<!-- Line 43 -->
+   
+  <grid_43_18	type="road"		direction="south"/>
+  <grid_43_19	type="road"		direction="north"/>
+ 
+  <grid_43_31	type="busstop"	direction="south-east"/>
+  <grid_43_32	type="busstop"	direction="east"/>
+  <grid_43_33	type="busstop"	direction="north-east"/>
+ 
+  <grid_43_36	type="road"		direction="south"/>
+  <grid_43_37	type="road"		direction="north"/>
+
+<!-- Line 44 -->
+   
+  <grid_44_18	type="exit"		direction="south"/>
+  <grid_44_19	type="entry"	direction="north"/>
+  
+  <grid_44_36	type="exit"		direction="south"/>
+  <grid_44_37	type="entry"	direction="north"/>
+  
+<!-- Definiton of traffic signs -->
+  
+  <NoEntry_1	grid_x="40"	grid_y="9"	layer="2"	direction="west"/>
+  <NoEntry_2	grid_x="33"	grid_y="6"	layer="2"	direction="west"/>
+  <NoEntry_3	grid_x="11"	grid_y="27"	layer="2"	direction="west"/>
+
+  <GiveWay_1	grid_x="18"	grid_y="44"	layer="2"	direction="west"/>
+  <GiveWay_2	grid_x="11"	grid_y="29"	layer="2"	direction="west"/>
+  <GiveWay_3	grid_x="18"	grid_y="18"	layer="2"	direction="south"/>
+  <GiveWay_4	grid_x="28"	grid_y="29"	layer="2"	direction="north"/>
+  <GiveWay_5	grid_x="36"	grid_y="44"	layer="2"	direction="west"/>
+  <GiveWay_6	grid_x="40"	grid_y="21"	layer="2"	direction="west"/>
+  <GiveWay_7	grid_x="39"	grid_y="40"	layer="2"	direction="north"/>
+  <GiveWay_8	grid_x="33"	grid_y="37"	layer="2"	direction="west"/>
+  <GiveWay_9	grid_x="36"	grid_y="31"	layer="2"	direction="south"/>
+  <GiveWay_10	grid_x="42"	grid_y="34"	layer="2"	direction="east"/>
+  <GiveWay_11	grid_x="40"	grid_y="11"	layer="2"	direction="west"/>
+  
+  <OneWay_1		grid_x="40"	grid_y="4"	layer="2"	direction="south"/>
+  <OneWay_2		grid_x="33"	grid_y="9"	layer="2"	direction="north"/>
+  <OneWay_3		grid_x="5"	grid_y="21"	layer="2"	direction="west"/>
+  
+  <ConstructionSite_1	grid_x="25"	grid_y="20"	layer="2"	direction="north"/>
+  
+ <!-- Definiton of traffic lights -->
+  
+  <traffic_light_11	grid_x="13"	grid_y="10"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_12	grid_x="13"	grid_y="9"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_13	grid_x="12"	grid_y="9"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_14	grid_x="12"	grid_y="10"	layer="2"	direction="west"	color="red"/>
+  
+  <traffic_light_21	grid_x="13"	grid_y="20"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_22	grid_x="13"	grid_y="19"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_23	grid_x="12"	grid_y="19"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_24	grid_x="12"	grid_y="20"	layer="2"	direction="west"	color="red"/>
+  
+  <traffic_light_31	grid_x="32"	grid_y="20"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_32	grid_x="32"	grid_y="19"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_33	grid_x="31"	grid_y="19"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_34	grid_x="31"	grid_y="20"	layer="2"	direction="west"	color="red"/>
+  
+  <traffic_light_41	grid_x="13"	grid_y="36"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_42	grid_x="13"	grid_y="35"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_43	grid_x="12"	grid_y="35"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_44	grid_x="12"	grid_y="36"	layer="2"	direction="west"	color="red"/>
+  
+  <traffic_light_51	grid_x="20"	grid_y="36"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_52	grid_x="20"	grid_y="35"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_53	grid_x="19"	grid_y="35"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_54	grid_x="19"	grid_y="36"	layer="2"	direction="west"	color="red"/>
+  
+  <traffic_light_61	grid_x="27"	grid_y="36"	layer="2"	direction="south"	color="green"/>
+  <traffic_light_62	grid_x="27"	grid_y="35"	layer="2"	direction="east"	color="red"/>
+  <traffic_light_63	grid_x="26"	grid_y="35"	layer="2"	direction="north"	color="green"/>
+  <traffic_light_64	grid_x="26"	grid_y="36"	layer="2"	direction="west"	color="red"/>
+
+ <!-- Definiton of passenger cars -->
+  
+  <car_1	grid_x="13"	grid_y="33"	direction="north"	speed="10"	color="green"></car_1>
+  <car_2	grid_x="33"	grid_y="35"	direction="west"	speed="20"	color="white"/>
+  <car_3	grid_x="1"	grid_y="36"	direction="east"	speed="30"	color="blue"/>
+  <car_4	grid_x="32"	grid_y="27"	direction="north"	speed="40"	color="orange"/>
+  <car_5	grid_x="1"	grid_y="20"	direction="east"	speed="50"	color="green"/>
+
+ <!-- Definiton of passenger buses -->
+
+  <bus_1	grid_x="5"	grid_y="24"	direction="south"	speed="1"	color="yellow"/>
+  <bus_2	grid_x="33"	grid_y="41"	direction="west"	speed="1"	color="yellow"/>
+  <bus_3	grid_x="43"	grid_y="11"	direction="north"	speed="1"	color="yellow"/>
+  <bus_4	grid_x="36"	grid_y="11"	direction="east"	speed="1"	color="yellow"/>
+  <bus_5	grid_x="33"	grid_y="44"	direction="east"	speed="1"	color="yellow"/>
+  <bus_6	grid_x="14"	grid_y="27"	direction="north"	speed="1"	color="yellow"/>
+  
+ </city>

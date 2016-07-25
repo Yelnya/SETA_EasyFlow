@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="boehm"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/sequenceCharts"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="476"
+   kind="dir"
+   committed-date="2015-01-03T08:50:25.964862Z"/>
+<entry
+   name="controller_flowchart.graphml"
+   checksum="977e9b275938048cf65627e56aa1f7ef"
+   last-author="boehm"
+   text-time="2015-01-03T08:50:25.964000Z"
+   committed-rev="476"
+   kind="file"
+   committed-date="2015-01-03T08:50:25.964862Z"/>
+<entry
+   name="mvc_gridUpdate_move_vehicle.graphml"
+   checksum="12ad2299d6db6cb305e7afcf55c85d5a"
+   last-author="boehm"
+   committed-rev="281"
+   text-time="2014-12-10T22:02:36.403000Z"
+   kind="file"
+   committed-date="2014-12-10T22:02:36.403000Z"/>
+<entry
+   name="mvc_gridUpdate_new_delete_vehicle.graphml"
+   checksum="934f03b589489d4fbeaa2f56ec6bfae8"
+   last-author="boehm"
+   committed-rev="281"
+   text-time="2014-12-10T22:02:36.403000Z"
+   kind="file"
+   committed-date="2014-12-10T22:02:36.403000Z"/>
+</wc-entries>

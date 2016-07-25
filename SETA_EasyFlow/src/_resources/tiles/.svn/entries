@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="jordan"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources/tiles"
+   committed-rev="523"
+   kind="dir"
+   committed-date="2015-01-07T13:10:58.262853Z"/>
+<entry
+   name="Hintergrundbild.png"
+   checksum="972b1b2628679e547cd0d8d12b9a0349"
+   last-author="jordan"
+   committed-rev="489"
+   text-time="2015-01-04T14:13:59.339000Z"
+   kind="file"
+   committed-date="2015-01-04T13:36:09.977000Z"
+   prop-time="2014-12-18T15:32:51.272000Z"/>
+<entry
+   name="trafficJam"
+   kind="dir"/>
+<entry
+   name="trafficLights"
+   kind="dir"/>
+<entry
+   name="trafficSigns"
+   kind="dir"/>
+<entry
+   name="vehicles"
+   kind="dir"/>
+</wc-entries>

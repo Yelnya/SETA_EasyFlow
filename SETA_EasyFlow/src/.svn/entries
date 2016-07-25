@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="Paumann"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src"
+   committed-rev="610"
+   kind="dir"
+   committed-date="2015-01-29T15:02:51.760022Z"/>
+<entry
+   name="_resources"
+   kind="dir"/>
+<entry
+   name="controller"
+   kind="dir"/>
+<entry
+   name="methods"
+   kind="dir"/>
+<entry
+   name="model"
+   kind="dir"/>
+<entry
+   name="process"
+   kind="dir"/>
+<entry
+   name="threads"
+   kind="dir"/>
+<entry
+   name="uml"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   name="view"
+   kind="dir"/>
+<entry
+   name="xml"
+   kind="dir"/>
+</wc-entries>

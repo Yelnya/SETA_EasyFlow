@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>10</y>
+      <w>220</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>StopTrafficSign
+--
+/Data Members/
+--
+/Methods and Constructors/
++ StopTrafficSign
++ hasStop () :boolean
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>10</x>
+      <y>0</y>
+      <w>200</w>
+      <h>310</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;abstract&gt;&gt;
+/TrafficSign/
+--
+/Data Members/
+- title: String
+- pixmap: Jlabel
+- description: String
+- position : GridPosition
+- direction : int
+- lane : int
+--
+/Methods and Constructors/
++ TrafficSign
++ hasSpeedLimit() : boolean
++ getSpeedLimit() : int
++ hasDirection() : boolean
++ getDirection() : String
++ hasStop() : boolean
++ isMainRoad() : boolean
++ isGiveWay() : boolean
+
+
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>150</x>
+      <y>570</y>
+      <w>150</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>separate classes for implementation of traffic rules!
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>370</y>
+      <w>220</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>OneWayTrafficSign
+--
+/Data Members/
+--
+/Methods and Constructors/
++ OneWayTrafficSign
++ hasDirection() : boolean
++ getDirection() : String
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>520</y>
+      <w>220</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>DoNotEnterTrafficSign
+--
+/Data Members/
+--
+/Methods and Constructors/
++ DoNotEnterTrafficSign()
++ hasDirection() : boolean
++ getDirection() : String
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>130</y>
+      <w>220</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>MainRoadTrafficSign
+--
+/Data Members/
+--
+/Methods and Constructors/
++ MainRoadTrafficSign()
++ isMainRoad() : boolean
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>250</y>
+      <w>220</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>GiveWayTrafficSign
+--
+/Data Members/
+--
+/Methods and Constructors/
++ GiveWayTrafficSign
++ isGiveWay() : boolean
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>50</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>250</y>
+      <w>150</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>150</x>
+      <y>300</y>
+      <w>200</w>
+      <h>260</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;180.0;240.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>170</x>
+      <y>300</y>
+      <w>180</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;160.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>440</y>
+      <w>170</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>TrafficSignValidityArea
+--
+/Data Members/
+--
+/Methods and Constructors/
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>40</x>
+      <y>300</y>
+      <w>80</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..n
+m2=1
+is valid for</panel_attributes>
+    <additional_attributes>30.0;10.0;40.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>600</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>RoadTile</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>70</x>
+      <y>510</y>
+      <w>50</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1..m
+m2=1..n
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>670</y>
+      <w>220</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Obstacle
+--
+/Data Members/
+--
+/Methods and Constructors/
++ Obstacle()
++ isObstacle() : boolean
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>300</y>
+      <w>220</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;200.0;380.0</additional_attributes>
+  </element>
+</diagram>

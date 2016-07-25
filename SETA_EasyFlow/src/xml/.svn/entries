@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="Paumann"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/xml"
+   committed-rev="610"
+   kind="dir"
+   committed-date="2015-01-29T15:02:51.760022Z"/>
+<entry
+   name="XMLRead.java"
+   checksum="cb8141aedd3f9985487f97d5c71dd9ec"
+   last-author="Paumann"
+   text-time="2015-01-29T15:02:51.760000Z"
+   committed-rev="610"
+   kind="file"
+   committed-date="2015-01-29T15:02:51.760022Z"/>
+<entry
+   name="city.xml"
+   checksum="219052923f2134050b8284216637d2f6"
+   last-author="jordan"
+   text-time="2015-01-05T09:03:55.914000Z"
+   committed-rev="490"
+   kind="file"
+   committed-date="2015-01-05T08:28:56.429000Z"/>
+</wc-entries>

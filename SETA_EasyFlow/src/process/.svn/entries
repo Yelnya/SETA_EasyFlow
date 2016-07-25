@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/process"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="574"
+   kind="dir"
+   committed-date="2015-01-12T19:56:28.854814Z"/>
+<entry
+   name="ControllerThread.java"
+   last-author="jordan"
+   text-time="2015-01-12T19:56:28.854000Z"
+   committed-rev="574"
+   kind="file"
+   committed-date="2015-01-12T19:56:28.854814Z"
+   checksum="dde70844d91426fb73d31f29f7700019"/>
+<entry
+   name="EasyFlow.java"
+   last-author="jordan"
+   text-time="2015-01-12T19:56:28.854000Z"
+   committed-rev="574"
+   kind="file"
+   committed-date="2015-01-12T19:56:28.854814Z"
+   checksum="bc297689e07cd6a4dc5bcdf4beeef7e1"/>
+</wc-entries>

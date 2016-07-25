@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="jordan"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources"
+   committed-rev="523"
+   kind="dir"
+   committed-date="2015-01-07T13:10:58.262853Z"/>
+<entry
+   name="tiles"
+   kind="dir"/>
+</wc-entries>

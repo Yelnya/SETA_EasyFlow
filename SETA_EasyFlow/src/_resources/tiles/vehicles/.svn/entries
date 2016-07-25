@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="jordan"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources/tiles/vehicles"
+   committed-rev="494"
+   kind="dir"
+   committed-date="2015-01-05T10:44:03.910623Z"/>
+<entry
+   name="_bus"
+   kind="dir"/>
+<entry
+   name="_truck"
+   kind="dir"/>
+<entry
+   name="blue"
+   kind="dir"/>
+<entry
+   name="green"
+   kind="dir"/>
+<entry
+   name="orange"
+   kind="dir"/>
+<entry
+   name="white"
+   kind="dir"/>
+</wc-entries>

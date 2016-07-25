@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   revision="610"
+   last-author="Paumann"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="610"
+   kind="dir"
+   committed-date="2015-01-29T15:02:51.760022Z"/>
+<entry
+   name=".classpath"
+   checksum="521bedac8d500cc4f60f80e943bbece4"
+   last-author="jordan"
+   text-time="2014-12-03T11:38:14.012000Z"
+   committed-rev="200"
+   kind="file"
+   committed-date="2014-12-03T11:38:14.012694Z"/>
+<entry
+   name=".project"
+   checksum="386c62740b8276fba6969b9d7cd6ebe1"
+   last-author="jordan"
+   text-time="2014-10-14T07:42:32.440000Z"
+   committed-rev="19"
+   kind="file"
+   committed-date="2014-10-14T07:42:32.440715Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="JDOM"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="sequenceCharts"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

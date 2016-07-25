@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources/tiles/vehicles/green"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="292"
+   kind="dir"
+   committed-date="2014-12-11T19:06:38.110789Z"/>
+<entry
+   name="1.png"
+   checksum="7fdfc216412453735366bd604763f3c5"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.414000Z"/>
+<entry
+   name="2.png"
+   checksum="6aa5bb7c0e6cadbdf20d54f6b1029703"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.414000Z"/>
+<entry
+   name="3.png"
+   checksum="3694de27e3072df7666372ab5b63b1cd"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.429000Z"/>
+<entry
+   name="4.png"
+   checksum="146d7cfdaf097f4b4017f65307af6b1c"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.445000Z"/>
+<entry
+   name="5.png"
+   checksum="d72cebdcf41dd333aa3927c56ef4c8f9"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.445000Z"/>
+<entry
+   name="6.png"
+   checksum="16959ffeb5e4c2896ef761bbd96d86c5"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.445000Z"/>
+<entry
+   name="7.png"
+   checksum="33e5e2c1f2834c586f2dbae1eccd4385"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.461000Z"/>
+<entry
+   name="8.png"
+   checksum="622f45608ab450cd735ce186434be9cf"
+   last-author="jordan"
+   text-time="2014-12-10T18:05:05.820000Z"
+   committed-rev="274"
+   kind="file"
+   committed-date="2014-12-10T18:05:05.820514Z"
+   prop-time="2014-12-18T15:32:50.461000Z"/>
+</wc-entries>

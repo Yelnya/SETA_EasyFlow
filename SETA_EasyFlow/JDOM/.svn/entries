@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="paumann"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/JDOM"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="196"
+   kind="dir"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="LICENSE.txt"
+   checksum="3d7e4db0273d346c6218764dbdd56446"
+   last-author="paumann"
+   committed-rev="196"
+   text-time="2014-12-02T13:41:14.146000Z"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="README.txt"
+   checksum="c8d211bced025d5d3bb30e6bdef8d2a6"
+   last-author="paumann"
+   committed-rev="196"
+   text-time="2014-12-02T13:41:14.146000Z"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="jdom-2.0.5-contrib.jar"
+   checksum="8aae0a809cff7d8a60032630cded9b2d"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.036000Z"/>
+<entry
+   name="jdom-2.0.5-javadoc.jar"
+   checksum="d0c25d97a3aa33923ba330be82738885"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.894000Z"/>
+<entry
+   name="jdom-2.0.5-junit.jar"
+   checksum="8f0057f7d94f6834c851c4414ac7cb7a"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.988000Z"/>
+<entry
+   name="jdom-2.0.5-sources.jar"
+   checksum="5b9c72f579f7780eac8a556f53c4ce48"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.286000Z"/>
+<entry
+   name="jdom-2.0.5.jar"
+   checksum="302db3c65c38d3c10ef31bca76bd76b4"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.083000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+</wc-entries>

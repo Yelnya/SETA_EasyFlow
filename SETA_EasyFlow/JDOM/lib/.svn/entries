@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="paumann"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/JDOM/lib"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="196"
+   kind="dir"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="jaxen-1.1.6.LICENSE.txt"
+   checksum="4a6910ad17302860108a7ac1ec9f96aa"
+   last-author="paumann"
+   committed-rev="196"
+   text-time="2014-12-02T13:41:14.146000Z"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="jaxen-1.1.6.jar"
+   checksum="a140517286b56eea981e188dcc3a13f6"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.348000Z"/>
+<entry
+   name="xerces.2.11.LICENSE"
+   checksum="d273d63619c9aeaf15cdaf76422c4f87"
+   last-author="paumann"
+   committed-rev="196"
+   text-time="2014-12-02T13:41:14.146000Z"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="xerces.2.11.NOTICE"
+   checksum="79bfde7a9dce07979410e1e4d94ad9a9"
+   last-author="paumann"
+   committed-rev="196"
+   text-time="2014-12-02T13:41:14.146000Z"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"/>
+<entry
+   name="xercesImpl.jar"
+   checksum="43584adc1f895628055bad0aa98a1007"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.629000Z"/>
+<entry
+   name="xml-apis.jar"
+   checksum="7eaad6fea5925cca6c36ee8b3e02ac9d"
+   last-author="paumann"
+   text-time="2014-12-02T13:41:14.146000Z"
+   committed-rev="196"
+   kind="file"
+   committed-date="2014-12-02T13:41:14.146519Z"
+   prop-time="2014-12-18T15:32:52.379000Z"/>
+</wc-entries>

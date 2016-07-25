@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/controller"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="587"
+   kind="dir"
+   committed-date="2015-01-13T00:15:20.424361Z"/>
+<entry
+   name="BasicRules.java"
+   checksum="977d993604d45c2fd13db1a67c93ae7b"
+   last-author="jordan"
+   text-time="2015-01-13T00:15:20.424000Z"
+   committed-rev="587"
+   kind="file"
+   committed-date="2015-01-13T00:15:20.424361Z"/>
+<entry
+   name="Controller.java"
+   checksum="afa69fd268a8aef3c816bcd0151bce70"
+   last-author="jordan"
+   text-time="2015-01-12T20:17:50.255000Z"
+   committed-rev="576"
+   kind="file"
+   committed-date="2015-01-12T20:17:50.255233Z"/>
+<entry
+   name="DijkstraRules.java"
+   checksum="a01c6a2fdf25d733ba69f6f6bf1c5b58"
+   last-author="boehm"
+   text-time="2015-01-12T13:33:11.764000Z"
+   committed-rev="558"
+   kind="file"
+   committed-date="2015-01-12T13:33:11.764231Z"/>
+<entry
+   name="NaschRules.java"
+   checksum="4aa9609cadfd513b1bdc5f635287872e"
+   last-author="boehm"
+   text-time="2015-01-05T12:03:53.675000Z"
+   committed-rev="496"
+   kind="file"
+   committed-date="2015-01-05T12:03:53.675236Z"/>
+<entry
+   name="PropagateGridModelUpdate.java"
+   checksum="e7389190af5963f5c01540ee868a0a49"
+   last-author="boehm"
+   text-time="2015-01-05T12:03:53.675000Z"
+   committed-rev="496"
+   kind="file"
+   committed-date="2015-01-05T12:03:53.675236Z"/>
+</wc-entries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources/tiles/trafficLights"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="324"
+   kind="dir"
+   committed-date="2014-12-13T18:51:13.874374Z"/>
+<entry
+   name="trafficLight_n_green.png"
+   checksum="499ec40b49a95cfe682c31f0237687e1"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.319000Z"/>
+<entry
+   name="trafficLight_n_red.png"
+   checksum="fa09ef84deb89c4f6b85bc9cb92c9915"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.303000Z"/>
+<entry
+   name="trafficLight_o_green.png"
+   checksum="537728e06bb2bea652830809f87e3c11"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.334000Z"/>
+<entry
+   name="trafficLight_o_red.png"
+   checksum="34abd4bbdbfda3f8870afe58bad5aa42"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.319000Z"/>
+<entry
+   name="trafficLight_s_green.png"
+   checksum="a3519ba23e4833d77614cf070fa8511b"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.350000Z"/>
+<entry
+   name="trafficLight_s_red.png"
+   checksum="6deadd5d244c26ad1d02cd4313c15c38"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.319000Z"/>
+<entry
+   name="trafficLight_w_green.png"
+   checksum="88aa24f4c2d85c791dfda2d42ac2b203"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.303000Z"/>
+<entry
+   name="trafficLight_w_red.png"
+   checksum="01ffee8db5967314ad5361f7bbf6eb5b"
+   last-author="jordan"
+   text-time="2014-12-13T18:51:13.874000Z"
+   committed-rev="324"
+   kind="file"
+   committed-date="2014-12-13T18:51:13.874374Z"
+   prop-time="2014-12-18T15:32:51.334000Z"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/_resources/tiles/trafficSigns"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="332"
+   kind="dir"
+   committed-date="2014-12-13T21:30:06.235274Z"/>
+<entry
+   name="constructionSite.png"
+   checksum="7a5f08feb91284f910db053382c3828a"
+   last-author="jordan"
+   text-time="2014-12-13T18:23:45.971000Z"
+   committed-rev="322"
+   kind="file"
+   committed-date="2014-12-13T18:23:45.971158Z"
+   prop-time="2014-12-18T15:32:50.258000Z"/>
+<entry
+   name="giveWaySign_1.png"
+   checksum="f84d7066d51a177a021acaf36ce7c0b8"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.227000Z"/>
+<entry
+   name="giveWaySign_3.png"
+   checksum="b592ce007aa5fb493cdeaede11b76e83"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.242000Z"/>
+<entry
+   name="giveWaySign_5.png"
+   checksum="02f384c4f7aa646d1e1d1e6634b40550"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.258000Z"/>
+<entry
+   name="giveWaySign_7.png"
+   checksum="65b302f18c96a2b6ff988f7f6c86b4d0"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.258000Z"/>
+<entry
+   name="noEntry.png"
+   checksum="c9720a28fd477267f57608febe53e943"
+   last-author="jordan"
+   text-time="2014-12-13T21:26:45.134000Z"
+   committed-rev="330"
+   kind="file"
+   committed-date="2014-12-13T21:26:45.134517Z"
+   prop-time="2014-12-18T15:32:50.242000Z"/>
+<entry
+   name="oneWay_1.png"
+   checksum="240dee862222047785c145bc86dfab53"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.273000Z"/>
+<entry
+   name="oneWay_3.png"
+   checksum="89746dd80479e2861c819b0c896cb4b8"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.273000Z"/>
+<entry
+   name="oneWay_5.png"
+   checksum="111dea6034d4dbf206c1d221fbc28cfa"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.273000Z"/>
+<entry
+   name="oneWay_7.png"
+   checksum="6272377129b4ae8c4ea2fa03dce727a7"
+   last-author="jordan"
+   text-time="2014-12-13T21:29:54.039000Z"
+   committed-rev="331"
+   kind="file"
+   committed-date="2014-12-13T21:29:54.039022Z"
+   prop-time="2014-12-18T15:32:50.289000Z"/>
+</wc-entries>

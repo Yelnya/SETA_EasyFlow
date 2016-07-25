@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ehealthcore.technikum-wien.at/svn/bvu_seta"
+   name=""
+   revision="610"
+   last-author="jordan"
+   url="https://ehealthcore.technikum-wien.at/svn/bvu_seta/pajobo/SETA_EasyFlow/src/util"
+   uuid="776add21-4f0d-4ce1-97e7-047baf8e9db2"
+   committed-rev="573"
+   kind="dir"
+   committed-date="2015-01-12T19:53:46.587722Z"/>
+<entry
+   name="Bitmap.java"
+   checksum="8496d2dc2144ca56db84eae341b7108e"
+   last-author="jordan"
+   committed-rev="222"
+   text-time="2014-12-06T16:17:30.199000Z"
+   kind="file"
+   committed-date="2014-12-06T16:17:30.199875Z"/>
+<entry
+   name="Direction.java"
+   checksum="60f9dd6d5e1c3c7a2a78a993f7887db8"
+   last-author="boehm"
+   committed-rev="440"
+   text-time="2014-12-29T19:51:59.967000Z"
+   kind="file"
+   committed-date="2014-12-29T19:51:59.967558Z"/>
+<entry
+   name="LogUtility.java"
+   checksum="140e82a3ec5a85793b927e1c3aab36b7"
+   last-author="jordan"
+   text-time="2015-01-12T19:53:46.587000Z"
+   committed-rev="573"
+   kind="file"
+   committed-date="2015-01-12T19:53:46.587722Z"/>
+<entry
+   name="MouseComponent.java"
+   checksum="cfd1f42b02896b310157a6922ebecbe9"
+   last-author="jordan"
+   committed-rev="573"
+   text-time="2015-01-12T19:53:46.587000Z"
+   kind="file"
+   committed-date="2015-01-12T19:53:46.587722Z"/>
+<entry
+   name="RandomComponents.java"
+   checksum="4ca576e72e3675e6f679444ba0d67ace"
+   last-author="boehm"
+   text-time="2015-01-08T17:48:09.387000Z"
+   committed-rev="541"
+   kind="file"
+   committed-date="2015-01-08T17:48:09.387955Z"/>
+<entry
+   name="ValidateInput.java"
+   checksum="2c59bb96f9f298bd026097883b49052c"
+   last-author="boehm"
+   committed-rev="553"
+   text-time="2015-01-11T21:23:07.858000Z"
+   kind="file"
+   committed-date="2015-01-11T21:23:07.858020Z"/>
+</wc-entries>
